@@ -1,4 +1,4 @@
-# OpenGL-Pirate-Ship-Demo
+# OpenGLPirateShipDemo
 Real-Time 3D OpenGL Application of a low-poly pirate ship in water.
 
 This project is a real-time 3D graphics application I built in C++ and OpenGL, featuring:
